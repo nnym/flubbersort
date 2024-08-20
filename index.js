@@ -1,5 +1,3 @@
-import url from "url";
-
 export default function flubbersort(array) {
 	if (array.length <= 1) return array;
 
